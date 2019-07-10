@@ -1,7 +1,0 @@
-C:\Users\Balint\source\repos\gameoflife\gameoflife\obj\Debug\gameoflife.csprojAssemblyReference.cache
-C:\Users\Balint\source\repos\gameoflife\gameoflife\obj\Debug\gameoflife.csproj.CoreCompileInputs.cache
-C:\Users\Balint\source\repos\gameoflife\gameoflife\bin\Debug\gameoflife.exe.config
-C:\Users\Balint\source\repos\gameoflife\gameoflife\bin\Debug\gameoflife.exe
-C:\Users\Balint\source\repos\gameoflife\gameoflife\bin\Debug\gameoflife.pdb
-C:\Users\Balint\source\repos\gameoflife\gameoflife\obj\Debug\gameoflife.exe
-C:\Users\Balint\source\repos\gameoflife\gameoflife\obj\Debug\gameoflife.pdb
